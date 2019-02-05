@@ -1,1 +1,1 @@
-# Merge HTML code along projects into 1 file
+# Merge HTML code along projects into 1 repo
